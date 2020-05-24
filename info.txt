@@ -1,0 +1,6 @@
+This is just a random collection of single html pages with different contents and purposes with the same template styles.
+
+Current content:
+- 404 Not Found Page > 1
+- Under Construction Page > 1
+- Contact Form > 1
